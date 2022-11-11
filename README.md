@@ -3,13 +3,13 @@
 A React component wrapper for [datamatrix-svg](https://github.com/datalog/datamatrix-svg)
 
 ## Installation
-    npm install react-datamatrix
+    npm install react-datamatrix-svg
 
 ## Usage
 
 ```javascript
 import React from 'react'
-import DataMatrix from 'react-datamatrix'
+import DataMatrix from 'react-datamatrix-svg'
 
 const App = () => {
     return (
@@ -24,7 +24,7 @@ export default App
 
 ```javascript
 import React from 'react'
-import DataMatrix from 'react-datamatrix'
+import DataMatrix from 'react-datamatrix-svg'
 
 const App = () => {
     return (
