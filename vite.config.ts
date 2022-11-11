@@ -6,8 +6,8 @@ export default defineConfig({
   build: {
     lib: {
       entry: path.resolve(__dirname, 'src/lib/DataMatrix.tsx'),
-      name: 'React Datamatrix',
-      fileName: (format) => `react-datamatrix.${format}.js`
+      name: 'React Datamatrix SVG',
+      fileName: (format) => `react-datamatrix-svg.${format}.js`
     },
     rollupOptions: {
       external: ['react', 'react-dom'],

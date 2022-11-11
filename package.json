@@ -1,5 +1,5 @@
 {
-  "name": "react-datamatrix",
+  "name": "react-datamatrix-svg",
   "description": "React component wrapper for github datamatrix js",
   "version": "1.0.0",
   "license": "MIT",
