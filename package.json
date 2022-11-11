@@ -1,8 +1,8 @@
 {
   "name": "react-datamatrix-svg",
   "description": "React component wrapper for github datamatrix js",
-  "version": "1.0.2",
-  "types": "./src/lib/DataMatrix.d.ts",
+  "version": "1.0.4",
+  "types": "./dist/react-datamatrix-svg.d.ts",
   "license": "MIT",
   "author": {
     "name": "Levi Gonzales"
