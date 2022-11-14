@@ -2,6 +2,8 @@
 
 A React component wrapper for [datamatrix-svg](https://github.com/datalog/datamatrix-svg)
 
+<img src="https://github.com/lvstross/react-datamatrix/blob/main/public/assets/datamatrix-svg.jpg?raw=true" width="150px" height="150px" />
+
 ## Installation
     npm install react-datamatrix-svg
 
